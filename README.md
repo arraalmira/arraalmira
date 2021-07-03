@@ -6,8 +6,7 @@
 	<div>
 	<div>	
     <div align ="center">
-      <b>Hi, call me ARRA  👋 </b>
-      <h1> </h1>
+	    <h1><b>Hi, call me ARRA  👋 </b></h2>
     </div>
     <div align ="left">
       <li>💬 21, Computer Science Student from the Philippines
@@ -18,14 +17,16 @@
     </div>
 		<h2><img src="phone.gif" height="70"> <b> Connect With Me: </b></h2>
 <p>
-  <a href="mailto:mcmpresto25@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/macario-lou-presto-30812313b/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/presto_creams/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/mcmpresto/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Facebook-0e76a8?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+	<a href="https://www.instagram.com/arraalberto/" target="_blank"><img height="75" src = "https://user-images.githubusercontent.com/85385610/124364405-30acc980-dbf6-11eb-9250-39f8dfa7296d.png"></a>
+	 <a href="https://www.linkedin.com/in/arraalberto/" target="_blank"> <img height="68" src = "https://user-images.githubusercontent.com/85385610/124364508-de1fdd00-dbf6-11eb-8ba8-2c34d4b48f17.png"></a>
+   <a href="https://www.twitter.com/arraxalberto" target="_blank"> <img height="72" src = "https://user-images.githubusercontent.com/85385610/124364797-a1ed7c00-dbf8-11eb-93db-80e6169e2f32.png"></a>
+  <a href="https://www.facebook.com/arraalmira.18/" target="_blank"><img height="75" src = "https://user-images.githubusercontent.com/85385610/124364459-95682400-dbf6-11eb-9fec-f50d052f5713.png"></a>
 </p>
-  		</br>
+  		
  </body> 
-  
+
+
+
 <!--
 **arraalmira/arraalmira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
