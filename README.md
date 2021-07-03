@@ -16,13 +16,14 @@
       <li>👯 I’m looking to collaborate with anyone on any projects
       </li>
     </div>
-    <h2> </h2>
-		<img src="cute.gif" height="70"> <b> Reach me Through: </b>
-	
-	
-	
-  
-  
+		<h2><img src="phone.gif" height="70"> <b> Connect With Me: </b></h2>
+<p>
+  <a href="mailto:mcmpresto25@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/macario-lou-presto-30812313b/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/presto_creams/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/mcmpresto/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Facebook-0e76a8?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+</p>
+  		</br>
  </body> 
   
 <!--
