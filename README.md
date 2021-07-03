@@ -17,9 +17,9 @@
       </li>
     </div>
     <h2> </h2>
-	<img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" height="40"> My Socials
-
-		
+		<img src="cute.gif" height="70"> <b> Reach me Through: </b>
+	
+	
 	
   
   
